@@ -1,7 +1,7 @@
 chart-releaser
 .idea
 /dist
-/vendor
+/vendor/*
 !vendor/modules.txt
 .vscode
 /cr-bin
